@@ -190,6 +190,14 @@ export const turboIntegrations: Record<string, TurboIntegration> = {
     imgDark: "/integrations/gitcoin-passport.svg",
     category: "services",
   },
+  lensProtocol: {
+    name: 'Lens Protocol',
+    href: '/integration/lens-protocol',
+    url: 'https://www.lens.xyz/',
+    description: 'Lens Protocol is the social layer for Web3',
+    imgLight: '/integrations/lensprotocol-light.svg',
+    imgDark: '/integrations/lensprotocol-dark.svg',
+  },
   starter: {
     name: "Starter Template",
     href: "/integration/starter",
