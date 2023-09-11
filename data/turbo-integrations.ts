@@ -197,6 +197,7 @@ export const turboIntegrations: Record<string, TurboIntegration> = {
     description: "Lens Protocol is the social layer for Web3",
     imgLight: "/integrations/lensprotocol-light.svg",
     imgDark: "/integrations/lensprotocol-dark.svg",
+    category: "protocols",
   },
   starter: {
     name: "Starter Template",
